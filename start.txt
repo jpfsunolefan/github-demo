@@ -1,1 +1,3 @@
 Test Git Quick Start demo
+
+Updated for v1.5
