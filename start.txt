@@ -1,5 +1,1 @@
 Test Git Quick Start demo
-
-Updated for v1.5
-Added new file 1.5
-Added new file 1.5A
